@@ -1,0 +1,32 @@
+.logo {
+    width: 200px;
+}
+
+
+
+.hero {
+    text-align: center;
+}
+
+.items {
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.navbar {
+    list-style-type: none;
+    justify-content: space-evenly;
+    
+}
+
+nav {
+    text-align: center;
+}
+
+.space {
+    padding: 20px;
+}
+
